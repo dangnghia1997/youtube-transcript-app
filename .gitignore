@@ -9,6 +9,7 @@
 # production
 /build
 /package
+.yarn/cache
 
 # misc
 .DS_Store
@@ -18,6 +19,7 @@
 .env.production.local
 .history
 *.log
+.idea
 
 # secrets
 secrets.*.js
